@@ -8,16 +8,30 @@ namespace Aufgabe_Funktionen
 {
     internal class myMath
     {
-        public int calculateSpecificMode(CalcEnum mode, int number1, int number2)
+        communicator com = new communicator();
+        public int calculateSpecificMode(CalcEnum mode)
         {
             switch (mode)
             {
                 case CalcEnum.GGT:
-                    return calc_ggt(number1, number2);
+                    return calc_ggt();
                 case CalcEnum.KGV:
-                    return calc_kgv(number1, number2);
+                    return calc_kgv();
                 default: return 0;
             }
+        }
+        public int calc_ggt()
+        {
+            int a = com.readInNumber();
+            int b = com.readInNumber();
+            int z;
+            while (b != 0)
+            {
+                z = a % b;
+                a = b;
+                b = z;
+            }
+            return a;
         }
         public int calc_ggt(int a, int b)
         {
@@ -30,8 +44,10 @@ namespace Aufgabe_Funktionen
             }
             return a;
         }
-        public int calc_kgv(int a, int b)
+        public int calc_kgv()
         {
+            int a = com.readInNumber();
+            int b = com.readInNumber();
             int z = a * b / calc_ggt(a, b);
             return z;
         }
