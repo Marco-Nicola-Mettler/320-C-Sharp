@@ -8,6 +8,17 @@ namespace Aufgabe_Funktionen
 {
     internal class myMath
     {
+        public int calculateSpecificMode(CalcEnum mode, int number1, int number2)
+        {
+            switch (mode)
+            {
+                case CalcEnum.GGT:
+                    return calc_ggt(number1, number2);
+                case CalcEnum.KGV:
+                    return calc_kgv(number1, number2);
+                default: return 0;
+            }
+        }
         public int calc_ggt(int a, int b)
         {
             int z;

@@ -8,7 +8,23 @@ namespace Aufgabe_Funktionen
 {
     internal class communicator
     {
-        
+        public CalcEnum getMode()
+        {
+            do
+            {
+                Console.WriteLine("0 = Grösster gemeinsamer Teiler");
+                Console.WriteLine("1 = Grösstes gemeinsames Vielfaches");
+                Console.WriteLine("Wählen Sie den Modus: ");
+                if (Enum.IsDefined(typeof(CalcEnum), int.TryParse(Console.ReadLine(), out int index)))
+                {
+                    return (CalcEnum)index;
+                } 
+                else 
+                {
+                    Console.WriteLine("Geben Sie eine gültige Zahl ein!");
+                }
+            } while (true);
+        }
         public int readInNumber()
         {
             do
