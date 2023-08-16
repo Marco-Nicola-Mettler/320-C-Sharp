@@ -1,0 +1,14 @@
+C:\Users\Marco\git\320-C-Sharp\code\Aufgabe_Funktionen\bin\Debug\net6.0\Aufgabe_Funktionen.exe
+C:\Users\Marco\git\320-C-Sharp\code\Aufgabe_Funktionen\bin\Debug\net6.0\Aufgabe_Funktionen.deps.json
+C:\Users\Marco\git\320-C-Sharp\code\Aufgabe_Funktionen\bin\Debug\net6.0\Aufgabe_Funktionen.runtimeconfig.json
+C:\Users\Marco\git\320-C-Sharp\code\Aufgabe_Funktionen\bin\Debug\net6.0\Aufgabe_Funktionen.dll
+C:\Users\Marco\git\320-C-Sharp\code\Aufgabe_Funktionen\bin\Debug\net6.0\Aufgabe_Funktionen.pdb
+C:\Users\Marco\git\320-C-Sharp\code\Aufgabe_Funktionen\obj\Debug\net6.0\Aufgabe_Funktionen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\git\320-C-Sharp\code\Aufgabe_Funktionen\obj\Debug\net6.0\Aufgabe_Funktionen.AssemblyInfoInputs.cache
+C:\Users\Marco\git\320-C-Sharp\code\Aufgabe_Funktionen\obj\Debug\net6.0\Aufgabe_Funktionen.AssemblyInfo.cs
+C:\Users\Marco\git\320-C-Sharp\code\Aufgabe_Funktionen\obj\Debug\net6.0\Aufgabe_Funktionen.csproj.CoreCompileInputs.cache
+C:\Users\Marco\git\320-C-Sharp\code\Aufgabe_Funktionen\obj\Debug\net6.0\Aufgabe_Funktionen.dll
+C:\Users\Marco\git\320-C-Sharp\code\Aufgabe_Funktionen\obj\Debug\net6.0\refint\Aufgabe_Funktionen.dll
+C:\Users\Marco\git\320-C-Sharp\code\Aufgabe_Funktionen\obj\Debug\net6.0\Aufgabe_Funktionen.pdb
+C:\Users\Marco\git\320-C-Sharp\code\Aufgabe_Funktionen\obj\Debug\net6.0\Aufgabe_Funktionen.genruntimeconfig.cache
+C:\Users\Marco\git\320-C-Sharp\code\Aufgabe_Funktionen\obj\Debug\net6.0\ref\Aufgabe_Funktionen.dll
